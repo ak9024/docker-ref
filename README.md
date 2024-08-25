@@ -18,10 +18,11 @@ A repository for demonstrating Docker reference implementations and usage patter
 ## Images
 
 ```bash
-REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
-go-app       upx       d8ac9edc180d   37 seconds ago   1.93MB
-go-app       latest    4adb1f990dce   4 minutes ago    5.99MB
-rust-app     latest    171b8bbaf046   8 minutes ago    87.6MB
+REPOSITORY   TAG        IMAGE ID       CREATED        SIZE
+rust-app     optimize   6ef45873c2d7   3 hours ago    84.5MB
+go-app       upx        d8ac9edc180d   16 hours ago   1.93MB
+go-app       latest     4adb1f990dce   16 hours ago   5.99MB
+rust-app     latest     171b8bbaf046   16 hours ago   87.6MB
 ```
 
 ## How to run?
