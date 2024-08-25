@@ -1,5 +1,6 @@
 FROM golang:latest AS build
 
+# https://github.com/upx/upx/releases/tag/v4.2.4
 ARG upx_version=4.2.4
 
 RUN apt-get update && apt-get install -y --no-install-recommends xz-utils && \
