@@ -8,7 +8,7 @@ A repository for demonstrating Docker reference implementations and usage patter
 - [x] Rust (actix)
 - [ ] Node.js
 - [ ] Ptyhon (fastAPI)
-- [ ] Next.js
+- [x] Next.js
 - [ ] Deno
 - [ ] Bun
 - [ ] CRA vite
@@ -23,6 +23,7 @@ A repository for demonstrating Docker reference implementations and usage patter
 | rust-app   | latest   | 87.6MB |
 | go-app     | upx      | 1.93MB |
 | go-app     | latest   | 5.99MB |
+| nextjs     | latest   | 674MB  |
 
 ## How to run?
 
